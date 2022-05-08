@@ -10,6 +10,6 @@ DevStream (CLI tool named dtm) is an open-source DevOps toolchain manager.
 
 **Happy hacking, buddy!**
 
-Please give us feedback through GitHub issues if you encounter any difficulties.
+**Please give us feedback through GitHub issues if you encounter any difficulties.**
 
-<font color='red'>We guarantee that you will receive unrivaled help from our passionate community!</font>
+**We guarantee that you will receive unrivaled help from our passionate community!**
