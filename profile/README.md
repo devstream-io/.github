@@ -1,4 +1,4 @@
-## Hey, this is DevStream community 👋
+## Hey, This is DevStream Community 👋
 
 | [👩‍💻 Quick Start](https://github.com/devstream-io/devstream#quick-start)
 | [📚 Documentation](https://docs.devstream.io) 
